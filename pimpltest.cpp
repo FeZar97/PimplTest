@@ -1,7 +1,6 @@
 #include "pimpltest.h"
 #include "pimpltest_p.h"
 
-
 PimplTestPrivate::PimplTestPrivate()
 {}
 

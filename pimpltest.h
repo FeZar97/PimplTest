@@ -15,7 +15,7 @@ public:
     int publicFoo() const;
 
 protected:
-    PimplTestPrivate * const d_ptr;
+    PimplTestPrivate* const d_ptr;
     PimplTest(PimplTestPrivate &dd, QObject * parent);
 
 private:
